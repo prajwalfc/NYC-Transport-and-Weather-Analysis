@@ -7,12 +7,12 @@ In order to analyze the MTA Turnstile dataset Available for 10GB Taxi data for m
 
 ## Results and visualization
 
-![alt text](pic1.png)
-![alt text](pic2.png)
-![alt text](pic3.png)
-![alt text](pic4.png)
-![alt text](pic5.png)
-![alt text](pic6.png)
-![alt text](pic7.png)
-![alt text](pic8.png)
-![alt text](pic9.png)
+![alt text](images/pic1.png)
+![alt text](images/pic2.png)
+![alt text](images/pic3.png)
+![alt text](images/pic4.png)
+![alt text](images/pic5.png)
+![alt text](images/pic6.png)
+![alt text](images/pic7.png)
+![alt text](images/pic8.png)
+![alt text](images/pic9.png)
